@@ -1,7 +1,7 @@
 # RV-Sparse LFX 2026 Coding Challenge
 
 <p align="center">
-  <img src="doc/riscv-logo.png" alt="Program Output" width="700">
+  <img src="doc/riscv-logo.png" alt="Program Output" width="350">
 </p>
 
 This repository contains my solution for the RV-Sparse LFX Summer 2026 coding challenge.
